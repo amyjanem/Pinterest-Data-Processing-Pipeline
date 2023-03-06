@@ -1,4 +1,4 @@
-# Pinterest-Data-Processing-Pipeline
+# Pinterest Data Processing Pipeline
 
 This project is currenlty in progress, however it involves building an end-to-end data processing pipeline inspired by Pinterest’s experiment processing pipeline.
 
