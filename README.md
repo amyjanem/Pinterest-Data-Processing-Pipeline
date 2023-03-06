@@ -6,6 +6,8 @@ The pipeline is developed using a Lambda architecture. The batch data is ingeste
 
 The technologies that will be used are the following: Kafka, FastAPI, Spark, Spark Streaming, PostgresSQL and Airflow
 
+**<ins>Pipeline Architecture</ins>**
+
 <img width="801" alt="pipeline_arch" src="https://user-images.githubusercontent.com/105749987/223228145-795fc657-9ca8-47cb-9443-aad39d3c7112.png">
 
 
